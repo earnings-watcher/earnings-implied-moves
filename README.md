@@ -15,26 +15,9 @@ https://earnings-watcher.com/wiki/how-to-calculate-implied-move
 
 ## What is free here, and what members get
 
-This file is the free part of EarningsWatcher: for every report, what the options market priced in and what the stock then did. It is enough to study a stock's record or test an idea of your own. Everything below is what we built on top of it for the trade you have not placed yet.
+This file is the free part of EarningsWatcher: for every report, what the options market priced in and what the stock then did.
 
-**Before the report**
-- **Live implied moves and the full earnings calendar** — every reporting stock, refreshed daily as options reprice, with ten years of implied-vs-actual history behind each name.
-- **IV Rush Radar** — how a stock's option prices typically climb into its print, and where they stand today against that pattern, hour by hour on the last day.
-- **Scanner and alerts** — screen every upcoming report by implied move, beat rate, liquidity or IV, and get told when a setup appears.
-- **Moves Analyser** — the distribution of a stock's past earnings moves, not just the average, so a position can be judged on probabilities.
-
-**Choosing the position**
-- **Simulator** — the exact straddle, strangle, condor or spread you have in mind, priced against ten years of that stock's real reactions before you place it.
-- **Backtester** — the same position run through every past report with real option prices, entry and exit.
-- **Sympathy plays** — the stocks that move when a related company reports, measured over years of releases.
-
-**After the report**
-- **DriftLab** — whether the earnings-day move tends to continue or fade over the following weeks, scored from every past release.
-- **Paper trading, journal and a live trade feed** — rehearse positions with no money at risk, keep notes, and see what other members are putting on.
-
-**Around it**
-- **The MCP connector** — the whole platform inside ChatGPT, Claude or Cursor: ask for the implied move, the radar reading or a simulated position in plain language.
-- **API access**, daily livestreams, a private Discord, and a 15-lesson options course for anyone starting out.
+EarningsWatcher is a platform for trading options around earnings. It takes the one thing earnings give you that nothing else in markets does — a scheduled event with ten years of comparable history — and turns it into something you can study and act on: what options price into each report, how the stock has actually moved, how its implied volatility builds in the days before and collapses after, and what tends to happen in the weeks that follow. Members price the exact position they have in mind against that history before they place it, screen every upcoming report for setups, and can run all of it from inside ChatGPT, Claude or Cursor through our MCP connector.
 
 Plans and prices: https://earnings-watcher.com/pricing — cancel anytime.
 
