@@ -17,7 +17,11 @@ https://earnings-watcher.com/wiki/how-to-calculate-implied-move
 
 This file is the free part of EarningsWatcher: for every report, what the options market priced in and what the stock then did.
 
-EarningsWatcher is a platform for trading options around earnings. It takes the one thing earnings give you that nothing else in markets does — a scheduled event with ten years of comparable history — and turns it into something you can study and act on: what options price into each report, how the stock has actually moved, how its implied volatility builds in the days before and collapses after, and what tends to happen in the weeks that follow. Members price the exact position they have in mind against that history before they place it, screen every upcoming report for setups, and can run all of it from inside ChatGPT, Claude or Cursor through our MCP connector.
+**Where the edge comes from.** Earnings are the one catalyst in markets that is scheduled, repeats every quarter across thousands of companies, and leaves ten years of comparable data behind: the move, the implied volatility, the pricing, the reaction. That repetition is what makes them researchable. Instead of predicting a direction, you measure a distribution — median, percentiles, tails — and work out how often the stock stayed inside what options priced, and how often it broke out.
+
+**The cycle.** Every report follows the same arc: implied volatility builds in the days before (the IV rush), the stock moves on the print, the premium collapses the morning after (the IV crush), and the move either continues or fades over the following weeks (the drift). Each stage has a measurable history, and each is a different trade.
+
+**What members get.** The full platform that runs that research for every reporting stock: live implied moves and the complete calendar, the IV Rush Radar for the build-up, the Moves Analyser and scanner for the distributions and the setups, a simulator and backtester that price the exact position you have in mind against every past report, DriftLab for what follows, paper trading to rehearse it — and the MCP connector, which puts all of it inside ChatGPT, Claude or Cursor. Study the data, define the risk, trade selectively.
 
 Plans and prices: https://earnings-watcher.com/pricing — cancel anytime.
 
