@@ -35,9 +35,10 @@ https://earnings-watcher.com.* Education only — not investment advice.
 ## Python
 
 ```python
-pip install earningswatcher
+pip install git+https://github.com/earnings-watcher/earningswatcher-python
 from earningswatcher import implied_move
 implied_move("JPM")   # live implied move, next report date and the full history for one stock
+# package: https://github.com/earnings-watcher/earningswatcher-python
 ```
 
 ## What is not here
