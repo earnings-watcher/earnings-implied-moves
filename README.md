@@ -13,6 +13,19 @@ e.g. https://earnings-watcher.com/wiki/jpm-implied-move, and in the free JSON AP
 https://earnings-watcher.com/wiki/methodology · how the implied move is calculated:
 https://earnings-watcher.com/wiki/how-to-calculate-implied-move
 
+## What is free here, and what members get
+
+This file is the free part of EarningsWatcher: for every report, what the options market priced in and what the stock then did. It is enough to study a stock's record or test an idea of your own.
+
+Members get the parts that matter before the next report, not after it:
+
+- **The live implied move** for every upcoming report, refreshed daily as options reprice.
+- **IV Rush Radar** — how a stock's option prices typically climb into its print, and where they stand today against that pattern.
+- **DriftLab** — whether a stock's earnings-day move tends to continue or fade over the following weeks, scored from every past release.
+- **Simulator** — the exact straddle, strangle or spread you have in mind, priced against ten years of that stock's real reactions before you place it.
+
+Plans and prices: https://earnings-watcher.com/pricing — cancel anytime.
+
 ## Columns
 
 | column | meaning |
